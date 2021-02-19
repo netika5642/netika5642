@@ -1,4 +1,4 @@
-### Hi there 👋
+### This mod allows you to select all the popular regions (even LocalHost)
 
 <!--
 **netika5642/netika5642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
